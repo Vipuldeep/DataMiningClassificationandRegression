@@ -1,1 +1,3 @@
 # DataMiningClassificationandRegression
+
+The mined dataset of Census Income is used to predict the number of people who has annual income above 50k. It is based on work class, occupation, native country and many more. Census Income dataset has categorical and integer attribute characteristics. The data set has a y attribute which describes the salaries of people earning above and below 50k. This Dataset consist of 14 attributes and 48842 instances. Census Income was downloaded from UCI Machine Learning Repository. Initially, Dataset was not Weka compatible. It was converted into CSV format. Attribute headings were also added to the dataset. Missing Values are removed and “?” in dataset represents other or unknown.
